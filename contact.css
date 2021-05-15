@@ -1,0 +1,54 @@
+ body,html {
+        height: 100%;
+
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    }
+
+    .container {
+        width: 70%;
+        background-color: whitesmoke;
+        position: relative;
+        top: 330px;
+        left: 200px;
+        font-style: normal;
+        text-align: justify;
+
+    }
+
+
+    .footer {
+        background-color: darkcyan;
+        position: relative;
+        top: 100px;
+
+    }
+
+    .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 10px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+
+    }
+
+    .fa:hover {
+        opacity: 0.7;
+    }
+
+    .fa-facebook {
+
+        color: white;
+
+    }
+
+    .fa-instagram {
+
+        color: white;
+    }
+    .fa-linkedin{
+        color: white;
+    }
